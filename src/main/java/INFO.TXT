@@ -1,0 +1,43 @@
+summary of week 1 assignment
+OOP ---
+    Abstraction   (hide)
+    Encapsulation
+    Polymorphism
+    Inheritance
+
+Abstraction:
+    Means making an absract class (or abstract methods)
+        (transport --- is important to go to ph)
+        (1st march -- abc transport)
+        (ife and nation -- flight)
+
+        -- you cannot make instances of abract classes
+
+        Animal class:
+        String name;
+        LocalDate birthDay;
+
+        void sound()
+
+Encapsulation:
+    (getter and setters)
+
+
+
+Assignment
+    build a Hotel Management System
+
+    As a user
+    - I can register
+    - I can view available rooms
+    - I can make reservation
+    - I can check my checkout date;
+
+    As an Admin
+    - I can logIN
+    - I can approve reservation
+    - I can view all rooms
+    - I can increase prices
+    - I can increase room size
+
+
